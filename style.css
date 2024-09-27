@@ -67,26 +67,27 @@ h3{
 .procont{
     display: flex;
     flex-wrap:wrap;
+    justify-content: space-around;
 }
 
 .pro{
-    margin-left: 8px;
+    padding: 0%;
+    border-radius: 1.4%;
     margin-bottom: 28px;
     height: auto;
-    max-width: 415px;
-    border: 1px solid #ffffff66;
-    border-radius: 2%;
+    max-width: 420px;
+    border: 0.1px solid #ffffff;
 }
 
 .img{
-    margin-top: 4px;
-    border-radius: 5%;
+    border-radius: 1.4% 1.4% 0% 0%;
     height: 300px;
     width: 100%;
     margin-bottom: 8px;
 }
 
 p{
+  padding: 2px;
   color:#ffffff;
   text-align: center;
   font-size: 1.3rem;
@@ -141,5 +142,16 @@ p{
 
     .about{
         display:block;
+    }
+
+    .pro{
+        width: 900px;
+    }
+}
+
+@media (max-width:991.5px){
+    .pro{
+        margin: 0;
+        margin-bottom: 20px;
     }
 }
