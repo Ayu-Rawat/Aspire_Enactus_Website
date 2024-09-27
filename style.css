@@ -46,6 +46,7 @@ svg{
 h1{
     text-align: center;
     color:#fd7e14;
+    font-family: 'Roboto';
 }
 
 .enactus-img{
@@ -62,6 +63,7 @@ h1{
 
 h3{
     text-align: center;
+    font-family: 'Roboto';
 }
 
 .procont{
@@ -95,7 +97,7 @@ p{
   color:#ffffff;
   text-align: center;
   font-size: 1.3rem;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Roboto';
 }
 
 .project{
@@ -104,6 +106,7 @@ p{
 
 .text{
     font-size: 1.2rem;
+    font-family: 'Roboto';
 }
 
 .contact-text{
