@@ -65,9 +65,12 @@ h3{
 }
 
 .procont{
+    margin: 0%;
+    padding: 28px;
+    width:100%;
     display: flex;
     flex-wrap:wrap;
-    justify-content: space-around;
+    justify-content:space-between;
 }
 
 .pro{
@@ -77,6 +80,7 @@ h3{
     height: auto;
     max-width: 420px;
     border: 0.1px solid #ffffff;
+    margin-right: 8px;
 }
 
 .img{
@@ -108,6 +112,15 @@ p{
 
 .contact{
     margin-bottom: 12px;
+}
+
+
+@media (max-width:920px){
+    .pro{
+        display: grid;
+        margin: auto;
+        margin-bottom: 20px;
+    }
 }
 
 @media (max-width:768px){
@@ -144,14 +157,13 @@ p{
         display:block;
     }
 
-    .pro{
-        width: 900px;
+    .procont{
+        padding: 8px;
     }
-}
 
-@media (max-width:991.5px){
     .pro{
-        margin: 0;
+        display: grid;
+        margin: auto;
         margin-bottom: 20px;
     }
 }
