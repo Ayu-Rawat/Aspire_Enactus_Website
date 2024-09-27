@@ -18,10 +18,6 @@ body{
     background-color: #1b1f22;
 }
 
-a{
-    text-decoration: none;
-}
-
 img{
     display: grid;
     margin: auto;
