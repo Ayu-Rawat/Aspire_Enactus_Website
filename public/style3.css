@@ -22,3 +22,14 @@ img{
     display: grid;
     margin: auto;
 }
+
+a{
+    text-decoration: none;
+}
+
+@media (max-width:504px){
+
+    img{
+        width: 100%;
+    }
+}
