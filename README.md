@@ -1,4 +1,4 @@
-# Name - Ayush Rawat Roll number - 2024UCS1691
+# Aspire website
 
 This is a simple, informative website created for Enactus NSUT to provide details about their event Aspire. The site includes sections for event details, information about Enactus NSUT, its projects, a contact section, and a registration form (currently non-functional for data storage).
 
@@ -17,3 +17,5 @@ This is a simple, informative website created for Enactus NSUT to provide detail
 # Future Enhancements
 1. Backend integration for storing registration data.
 2. Additional features like event schedules, speakers, or sponsors.
+
+## Name - Ayush Rawat Roll number - 2024UCS1691
