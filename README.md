@@ -7,7 +7,7 @@ This is a simple, informative website created for Enactus NSUT to provide detail
 2. About Enactus NSUT: A brief description of the Enactus NSUT and its mission, Information about it past projects.
 3. Contact Section: Provides contact details or links to social media for reaching out to the society
 4. Registration Form: A form where users can input their details to register for the event.
-# Note: This form does not store or process input data as backend integration has not been implemented.
+## Note: This form does not store or process input data as backend integration has not been implemented.
 
 # Technologies Used
 1. HTML5: Structure and content of the website.
